@@ -1,16 +1,40 @@
-## Hi there 👋
+# Привет! Я Алексей Артемов 👋
 
-<!--
-**vashadagama/vashadagama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент 3 курса ТУСУРа на направлении **«Программная инженерия»**. 
+Специализируюсь на backend-разработке на **Java**, имею практический опыт создания веб-сервисов и работы с фронтенд-технологиями. Ищу позицию **Junior Java Backend Developer** или стажировку.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Технологический стек
+
+* **Backend & Языки:** Java, Python, Spring Framework (Spring Boot, Data JPA), PostgreSQL, SQL
+* **Frontend & Web:** JavaScript, HTML5, CSS3, SSR (Server-Side Rendering на Python)
+* **Инструменты & ОС:** Git, Win/Linux, IntelliJ IDEA, VS Code
+
+---
+
+### 🔭 Проекты и опыт
+
+* **[Стартап проект Rumi](https://github.com/KISLAARR/be)**
+  * Отвечал за разработку значительной части фронтенда.
+  * Реализовал генерацию страниц на стороне сервера (**SSR**) с использованием Python.
+  * Верстал динамические интерфейсы (JS, HTML, CSS), настраивал пользовательские компоненты и карточки.
+
+* **[Library-Management-System](https://github.com/vashadagama/Library-Managment-System)**
+  * Курсовой проект: система управления библиотечным фондом на **Java**.
+  * Оформлена бизнес-логика учета выдачи книг и работы с данными.
+
+---
+
+### 🏕 Личные интересы и софт-скиллы
+
+* **Активный отдых (Туризм):** Хожу в походы. Это хобби сформулировало мое отношение к задачам: важна тщательная подготовка, умение рассчитывать ресурсы, спокойствие и позитивный настрой в любой ситуации.
+* **Компьютерные технологии:** В свободное время углубляю знания в Linux, принципах работы ОС и компьютерного железа.
+* **Продуктивность:** Развиваю слепую печать и оптимизирую свое рабочее пространство для эффективной работы.
+
+---
+
+### 📫 Контакты для связи
+* **Telegram:** [@vasha_da_gama](https://t.me/vasha_da_gama)
+* **VK:** [vasha_da_gama](https://vk.ru/vasha_da_gama)
+* **Email:** proectarmata@gmail.com
