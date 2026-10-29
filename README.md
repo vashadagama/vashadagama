@@ -7,9 +7,12 @@
 
 ### 🛠 Технологический стек
 
-* **Backend & Языки:** Java, Python, Spring Framework (Spring Boot, Data JPA), PostgreSQL, SQL
-* **Frontend & Web:** JavaScript, HTML5, CSS3, SSR (Server-Side Rendering на Python)
-* **Инструменты & ОС:** Git, Win/Linux, IntelliJ IDEA, VS Code
+* **Языки:** Java (21, 26, 27), Python, C, SQL (базовый), JS
+* **Бэкэнд:** Spring Framework (Spring Boot, Spring Data JPA, Spring Web MVC — REST API, Spring Security, Spring WebSocket), Hibernate, PostgreSQL, Redis, CouchDB, Swagger, Docker / Docker Compose
+* **Фронтенд и веб:** HTML5, CSS3, SSR (Server-Side Rendering на Python)
+* **Инструменты & ОС:** Git, GitHub, IntelliJ IDEA, VS Code, Windows, Linux
+* **ИИ-инструменты:** Claude Code, Open Code, Model Context Protocol (MCP), мультиагентная разработка
+* **Практики** Code review, SOLID, ООП, Clean Architecture, Jira
 
 ---
 
@@ -20,7 +23,7 @@
   * Реализовал серверный рендеринг (SSR) на Python 
   * Создал динамические интерфейсы с использованием JavaScript, HTML5, CSS3; настраивал пользовательские компоненты и карточки 
 
-* **[Room booking system]()** - Система бронирования переговорных комнат: REST API на Spring Boot + SPA на Vue 3
+* **[Room booking system](https://github.com/vashadagama/room-booking-system)** - Система бронирования переговорных комнат: REST API на Spring Boot + SPA на Vue 3
   * Реализовал аунтефикацию и авторизацию на основе JWT, ограничение попыток входа и хеширование паролей.
   * Разработал модуль бронирования с проверкой пересечения временных интервалов и уведомлениями через WebSocket
   * Создал админ-панель: управление комнатами, сводка по системе, топ пользователей, игровая статистика
