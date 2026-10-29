@@ -18,22 +18,19 @@
 
 ### 🔭 Проекты и опыт
 
-* **[Стартап проект Rumi](https://github.com/KISLAARR/be)** - стартап
-  CRM-платформа для салонов красоты
+* **[Стартап проект Rumi](https://github.com/KISLAARR/be)** - CRM-платформа для салонов красоты
   * Разработал большую часть фронтенда и UI-дизайна 
   * Реализовал серверный рендеринг (SSR) на Python 
   * Создал динамические интерфейсы с использованием JavaScript, HTML5, CSS3; настраивал пользовательские компоненты и карточки 
 
-* **[Room booking system](https://github.com/vashadagama/room-booking-system)** - курсовой проект
-  Система бронирования переговорных комнат: REST API на Spring Boot + SPA на Vue 3
+* **[Room booking system](https://github.com/vashadagama/room-booking-system)** - Система бронирования переговорных комнат: REST API на Spring Boot + SPA на Vue 3 (курсовой проект)
   * Реализовал аунтефикацию и авторизацию на основе JWT, ограничение попыток входа и хеширование паролей.
   * Разработал модуль бронирования с проверкой пересечения временных интервалов и уведомлениями через WebSocket
   * Создал админ-панель: управление комнатами, сводка по системе, топ пользователей, игровая статистика
   * Написал CLI-инструмент на Spring Shell: экспорт данных в CSV, резервное копирование БД в JSON
   * Контейнеризировал весь стек с помощью Docker и Docker Compose 
 
-* **[Library-Management-System](https://github.com/vashadagama/Library-Managment-System)**
-  Система управления библиотекой с REST API на Spring Boot и SPA на React/Vite
+* **[Library-Management-System](https://github.com/vashadagama/Library-Managment-System)** - Система управления библиотекой с REST API на Spring Boot и SPA на React/Vite (курсовой проект)
   * Реализовал JWT-аутентификацию и ролевой доступ 
   * Спроектировал слой данных PostgreSQL с JPA/Hibernate
   * Контейнеризировал бэкенд и базу данных с помощью Docker Compose
