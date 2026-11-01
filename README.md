@@ -1,52 +1,11 @@
-# Привет! Я Алексей Артемов 👋
+# 💫 About Me:
+🔭 I’m currently working on high-load backend services on Java / Spring<br>🌱 I’m currently using Java 21–27, Spring Boot, Hibernate, PostgreSQL, Redis, Docker<br>🤖 I actively use AI tools: Claude Code, Open Code, MCP, multi-agent development<br>💬 Contact me — [https://t.me/YOUR_TELEGRAM](https://t.me/YOUR_TELEGRAM)<br>
 
-Студент 3 курса ТУСУРа на направлении **«Программная инженерия»**. 
-Специализируюсь на backend-разработке на **Java**, имею практический опыт создания веб-сервисов и работы с фронтенд-технологиями. Ищу позицию **Junior Java Backend Developer** или стажировку.
 
----
-
-### 🛠 Технологический стек
-
-* **Языки:** Java (21, 26, 27), Python, C, SQL (базовый), JS
-* **Бэкэнд:** Spring Framework (Spring Boot, Spring Data JPA, Spring Web MVC — REST API, Spring Security, Spring WebSocket), Hibernate, PostgreSQL, Redis, CouchDB, Swagger, Docker / Docker Compose
-* **Фронтенд и веб:** HTML5, CSS3, SSR (Server-Side Rendering на Python)
-* **Инструменты & ОС:** Git, GitHub, IntelliJ IDEA, VS Code, Windows, Linux
-* **ИИ-инструменты:** Claude Code, Open Code, Model Context Protocol (MCP), мультиагентная разработка
-* **Практики** Code review, SOLID, ООП, Clean Architecture, Jira
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=databricks&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![CouchDB](https://img.shields.io/badge/CouchDB-%23D42029.svg?style=for-the-badge&logo=apachecouchdb&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-### 🔭 Проекты и опыт
-
-* **[Стартап проект Rumi](https://github.com/KISLAARR/be)** - CRM-платформа для салонов красоты
-  * Разработал большую часть фронтенда и UI-дизайна 
-  * Реализовал серверный рендеринг (SSR) на Python 
-  * Создал динамические интерфейсы с использованием JavaScript, HTML5, CSS3; настраивал пользовательские компоненты и карточки 
-
-* **[Room booking system](https://github.com/vashadagama/room-booking-system)** - Система бронирования переговорных комнат: REST API на Spring Boot + SPA на Vue 3 (курсовой проект)
-  * Реализовал аунтефикацию и авторизацию на основе JWT, ограничение попыток входа и хеширование паролей.
-  * Разработал модуль бронирования с проверкой пересечения временных интервалов и уведомлениями через WebSocket
-  * Создал админ-панель: управление комнатами, сводка по системе, топ пользователей, игровая статистика
-  * Написал CLI-инструмент на Spring Shell: экспорт данных в CSV, резервное копирование БД в JSON
-  * Контейнеризировал весь стек с помощью Docker и Docker Compose 
-
-* **[Library-Management-System](https://github.com/vashadagama/Library-Managment-System)** - Система управления библиотекой с REST API на Spring Boot и SPA на React/Vite (курсовой проект)
-  * Реализовал JWT-аутентификацию и ролевой доступ 
-  * Спроектировал слой данных PostgreSQL с JPA/Hibernate
-  * Контейнеризировал бэкенд и базу данных с помощью Docker Compose
-  * Задокументировал API с помощью Swagger/OpenAPI
-  * В настоящее время занимаюсь рефакторингом схемы БД и доработками проекта
-
----
-
-### 🏕 Личные интересы и софт-скиллы
-
-* **Активный отдых (Туризм):** Хожу в походы. Это хобби сформировало мое отношение к задачам: важна тщательная подготовка, умение рассчитывать ресурсы, спокойствие и позитивный настрой в любой ситуации.
-* **Музыка:** В свободное время играю на гитаре, синтезаторе, флейте, пою. Люблю концерты в органном зале и драме. "Математика ум в порядок приводит", а музыка помогает отвлечься.
-
----
-
-### 📫 Контакты для связи
-* **Telegram:** [@vasha_da_gama](https://t.me/vasha_da_gama)
-* **VK:** [vasha_da_gama](https://vk.ru/vasha_da_gama)
-* **Email:** proectarmata@gmail.com
+[![](https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=0&color=0)](https://visitcount.itsvg.in)
