@@ -3,8 +3,8 @@
 🤝 I’m currently using Java, Spring Boot, Hibernate, PostgreSQL, Docker<br>
 💬 Contact me:
 * **Telegram:** [@vasha_da_gama](https://t.me/vasha_da_gama)
-* **VK:** [vasha_da_gama](https://vk.ru/vasha_da_gama)
-* **Email:** proectarmata@gmail.com<br>
+* **VK:**       [vasha_da_gama](https://vk.ru/vasha_da_gama)
+* **Email:**    proectarmata@gmail.com<br>
 
 
 # 💻 Tech Stack:
