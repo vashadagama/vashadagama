@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on high-load backend services on Java / Spring<br>🌱 I’m currently using Java 21–27, Spring Boot, Hibernate, PostgreSQL, Redis, Docker<br>🤖 I actively use AI tools: Claude Code, Open Code, MCP, multi-agent development<br>💬 Contact me — [https://t.me/YOUR_TELEGRAM](https://t.me/YOUR_TELEGRAM)<br>
+🔭 I’m currently working on backend services on Java / Spring<br>🌱 
+🤝 I’m currently using Java, Spring Boot, Hibernate, PostgreSQL, Docker<br>
+💬 Contact me:
+* **Telegram:** [@vasha_da_gama](https://t.me/vasha_da_gama)
+* **VK:** [vasha_da_gama](https://vk.ru/vasha_da_gama)
+* **Email:** proectarmata@gmail.com<br>
 
 
 # 💻 Tech Stack:
